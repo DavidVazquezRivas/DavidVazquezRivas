@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David Vázquez Rivas
-- 🌱 I’m currently studying Informatic Engeneering at UIB
+- 🌱 I’m currently studying Computer Science at UIB
 - 📫 You can contact me by email vazquezrivasdavid@gmail.com
 
 <!---
