@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Vázquez Rivas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/david-v%C3%A1zquez-rivas-a75a9528b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/davidvazquezrivas/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/DavidVazquezRivas)
 
 Soy un apasionado desarrollador de software en continuo aprendizaje, con especial interés en el desarrollo web. Actualmente, estoy ampliando mis conocimientos tanto en el frontend como en el backend, construyendo una base sólida para convertirme en un desarrollador **full-stack**.
