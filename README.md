@@ -43,9 +43,6 @@ Actualmente, estoy perfeccionando mis habilidades en:
 - Patrones de diseño y buenas prácticas para el desarrollo de software
 - **Visualización de datos** con D3.js
 
-## 🎯 Metas a largo plazo
-Mi objetivo es consolidarme como desarrollador web. Aunque aún no he decidido si me especializaré en **frontend** o **backend**, estoy disfrutando el proceso de aprendizaje full-stack y explorando ambos mundos.
-
 ## 🎮 Historia y Pasión por la Tecnología
 Siempre he sido un apasionado de la tecnología, y todo comenzó con los videojuegos. A los 12 años, empecé a realizar mis primeros cursos de informática, y desde entonces, mi pasión ha ido creciendo. Actualmente, estoy estudiando **Ingeniería Informática** en la **Universitat de les Illes Balears (UIB)**, donde sigo aprendiendo y explorando nuevas tecnologías.
 
