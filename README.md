@@ -8,11 +8,10 @@ Soy un apasionado desarrollador de software en continuo aprendizaje, con especia
 ## 🔧 Tecnologías y Herramientas
 
 - **Lenguajes**: Java, JavaScript, HTML, CSS, C, R, Python, PHP
-- **Bases de Datos**: MySQL, MariaDB
-- **Frontend**: React, HTML5, CSS3
-- **Backend**: (aprendiendo) Spring Framework, Java
-- **Visualización de Datos**: (aprendiendo) D3.js
-- **Modelado**: UML, draw.io
+- **Bases de Datos**: MySQL, MariaDB, PostgreSQL
+- **Frontend**: React, HTML5, CSS3, Javascript
+- **Backend**: Spring Framework, Java, PHP
+- **Modelado**: UML, C4, draw.io
 - **Metodologías**: Agile (Scrum)
 - **Otros**: Git, GitHub, APIs
 
@@ -34,13 +33,12 @@ Una implementación del juego ZenWord utilizando estructuras de datos como Sets 
 
 - **Responsive Web Design** – freeCodeCamp
 - **Algorithms and Data Structures in Javascript (Legacy)** – freeCodeCamp
-- **(Aprendiendo) Data Visualization con D3.js** – freeCodeCamp
+- **(En curso) Data Visualization con D3.js** – freeCodeCamp
 
 ## 🌱 ¿Qué estoy aprendiendo ahora?
 Actualmente, estoy perfeccionando mis habilidades en:
 - Desarrollo frontend con **React**
-- Fundamentos del framework de backend **Spring** (aún en fases iniciales)
-- Patrones de diseño y buenas prácticas para el desarrollo de software
+- El framework de backend **Spring**
 - **Visualización de datos** con D3.js
 
 ## 🎮 Historia y Pasión por la Tecnología
