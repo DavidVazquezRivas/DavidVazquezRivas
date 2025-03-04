@@ -17,9 +17,6 @@ Soy un apasionado desarrollador de software en continuo aprendizaje, con especia
 
 ## 🚀 Proyectos Destacados
 
-### [Filmema](https://filmema.vercel.app/)
-Una aplicación web que permite explorar películas y series a través de diversas APIs. Desarrollado con React, Vite y Wouter para gestión de rutas. El proyecto me ha permitido profundizar en React y experimentar con la gestión de datos desde APIs externas. [Ver código](https://github.com/DavidVazquezRivas/Filmema)
-
 ### [Flappy Bird 68K](https://github.com/DavidVazquezRivas/Flappy-Bird-68K)
 Un clon del clásico Flappy Bird, escrito en ensamblador para procesadores 68000. Desarrollado como trabajo final de la asignatura **Estructura de Computadores II**. Implementa un modelo de programación orientada a objetos básica usando agentes. [Ver código](https://github.com/DavidVazquezRivas/Flappy-Bird-68K)
 
