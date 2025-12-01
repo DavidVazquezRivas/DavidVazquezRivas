@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal and degree's projects learning as much as I can<br>🌱 I’m currently learning software architecture principles and best practices<br>🤖 Lately, I've been interested in and learning about AI-powered solutions and automations
+🔭 I’m currently working on personal and degree's projects learning as much as I can<br>🌱 I’m currently learning software architecture principles and best practices<br>
 
 
 ## 🌐 Socials:
